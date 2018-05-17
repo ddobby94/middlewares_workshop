@@ -1,0 +1,9 @@
+{
+    "0": {"id": "01", "executor": "Dobby", "text": "Create logger middleware", "status": "DONE"},
+    "1": {"id": "02", "executor": "Dobby", "text": "Create error handling middleware", "status": "DONE"},
+    "2": {"id": "03", "executor": "Dobby", "text": "Create Redux Thunk action", "status": "DOING"},
+    "3": {"id": "04", "executor": "Dobby", "text": "Create Selectors", "status": "TODO"},
+    "4": {"id": "05", "executor": "Katica", "text": "Sleep all day", "status": "DOING"},
+    "5": {"id": "06", "executor": "Rafael", "text": "Buy Dobby a lunch", "status": "TODO"},
+    "6": {"id": "06", "executor": "Putyu", "text": "Buy Dobby a beer", "status": "TODO"}
+} 
